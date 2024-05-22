@@ -1,1 +1,1 @@
-"this is file A">>A.txt
+"this is file A"
