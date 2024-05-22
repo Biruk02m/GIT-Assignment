@@ -1,0 +1,6 @@
+this is file A>>A.txt
+echo this is file A>>A.txt
+git status
+clear
+echo this is file A
+this is file A
